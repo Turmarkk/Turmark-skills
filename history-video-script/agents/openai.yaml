@@ -1,0 +1,4 @@
+interface:
+  display_name: "History Video Script"
+  short_description: "面向历史人物与事件的精品视频口播稿撰写技能"
+  default_prompt: "Use $history-video-script to draft a polished history video voiceover script."

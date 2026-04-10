@@ -1,0 +1,4 @@
+interface:
+  display_name: "SCYS URL to Markdown"
+  short_description: "SCYS pages to Obsidian markdown with local assets."
+  default_prompt: "Use $scys-url-to-markdown to capture this scys.com page into an Obsidian-ready markdown note with local assets."
