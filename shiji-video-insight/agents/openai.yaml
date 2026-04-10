@@ -1,0 +1,4 @@
+interface:
+  display_name: "史记视频洞见"
+  short_description: "把 shiji-kb 异常挖掘成历史视频选题、提纲与口播稿。"
+  default_prompt: "使用 $shiji-video-insight，把 shiji-kb 材料转成异常驱动的中文历史视频选题卡、提纲和口播稿。"
