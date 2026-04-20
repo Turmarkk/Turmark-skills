@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音精选视频脚本"
+  short_description: "生成、改写和诊断抖音精选知识类视频的选题、钩子、逐字稿与分镜。"
+  default_prompt: "请用这个 skill，把我的选题或素材做成符合抖音精选标准的知识类视频内容。"
